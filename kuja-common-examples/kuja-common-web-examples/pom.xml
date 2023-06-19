@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.wingsweaver.examples</groupId>
+    <artifactId>kuja-common-web-examples-parent</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>web-lib-common</module>
+        <module>webmvc-lib-jee</module>
+        <module>webmvc-lib-jakarta</module>
+
+        <module>webmvc-jee-app-24x</module>
+        <module>webmvc-jee-app-25x</module>
+        <module>webmvc-jee-app-26x</module>
+        <module>webmvc-jee-app-27x</module>
+        <module>webmvc-jakarta-app-30x</module>
+
+        <module>webflux-lib-common</module>
+        <module>webflux-app-24x</module>
+        <module>webflux-app-25x</module>
+        <module>webflux-app-26x</module>
+        <module>webflux-app-27x</module>
+        <module>webflux-app-30x</module>
+    </modules>
+</project>
