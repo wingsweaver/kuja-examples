@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.wingsweaver.examples</groupId>
+    <artifactId>kuja-common-cloud-examples-parent</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>service-registry-eureka</module>
+        <module>service-registry-nacos</module>
+        <module>service-registry-zookeeper</module>
+        <module>eureka-client-1</module>
+        <module>eureka-client-2</module>
+    </modules>
+</project>
