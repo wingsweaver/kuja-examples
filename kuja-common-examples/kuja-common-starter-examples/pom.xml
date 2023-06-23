@@ -5,15 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wingsweaver.examples</groupId>
-    <artifactId>kuja-common-examples-boot</artifactId>
+    <artifactId>kuja-common-starter-examples-parent</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>kuja-common-boot-examples</module>
-        <module>kuja-common-cloud-examples</module>
-        <module>kuja-common-web-examples</module>
-        <module>kuja-common-messaging-examples</module>
-        <module>kuja-common-starter-examples</module>
+        <module>kuja-starter-common-boot-test1</module>
+        <module>kuja-starter-common-webflux-test1</module>
+        <module>kuja-starter-common-webmvc-jee-test1</module>
+        <module>kuja-starter-common-webmvc-jakarta-test1</module>
     </modules>
 </project>
