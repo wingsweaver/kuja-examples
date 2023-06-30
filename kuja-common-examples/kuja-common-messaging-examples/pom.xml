@@ -12,9 +12,14 @@
     <modules>
         <module>lib-messaging-test</module>
         <module>messaging-jms-test1</module>
+<!--        <module>messaging-jms-jakarta-test1</module>-->
         <module>messaging-rabbit-test1</module>
         <module>messaging-kafka-test1</module>
         <module>messaging-redis-test1</module>
         <module>messaging-redisson-test1</module>
+
+        <module>broadcast-message-jms-test1</module>
+		
+		<module>error-reporting-with-messages-demo</module>
     </modules>
 </project>

@@ -11,5 +11,7 @@
 
     <modules>
         <module>warmup-demo</module>
+        <module>id-generator-demo</module>
+        <module>error-reporting-demo</module>
     </modules>
 </project>

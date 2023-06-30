@@ -32,7 +32,7 @@
         </dependency>
         <dependency>
             <groupId>com.wingsweaver.kuja</groupId>
-            <artifactId>kuja-starter-common-webmvc</artifactId>
+            <artifactId>kuja-starter-common-webmvc-jee</artifactId>
         </dependency>
         <dependency>
             <groupId>com.wingsweaver.kuja</groupId>
